@@ -13,6 +13,7 @@ for a in range(1,333):
   if done:
     break
 
+#OR
 
 for i in range(335,998):
     done = False
